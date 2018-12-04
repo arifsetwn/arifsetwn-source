@@ -1,4 +1,4 @@
-baseurl = "https://arifsetwn.github.io/"
+baseurl = "https://www.arifsetwn.github.io/"
 theme = "cocoa-eh"
 builddrafts = true
 canonifyurls = true
