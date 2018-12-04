@@ -1,14 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://example.org/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>Cocoa Enhanced</title>
+    <link>https://www.arifsetwn.github.io/</link>
+    <description>Recent content on Cocoa Enhanced</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 04 Dec 2018 09:52:20 +0700</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.arifsetwn.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About</title>
+      <link>https://www.arifsetwn.github.io/about/</link>
+      <pubDate>Tue, 04 Dec 2018 09:52:20 +0700</pubDate>
+      
+      <guid>https://www.arifsetwn.github.io/about/</guid>
+      <description>Hello</description>
+    </item>
+    
+    <item>
+      <title>Helloworld</title>
+      <link>https://www.arifsetwn.github.io/blog/helloworld/</link>
+      <pubDate>Tue, 04 Dec 2018 09:47:44 +0700</pubDate>
+      
+      <guid>https://www.arifsetwn.github.io/blog/helloworld/</guid>
+      <description>ihiiii</description>
+    </item>
     
   </channel>
 </rss>

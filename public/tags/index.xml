@@ -1,14 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on My New Hugo Site</title>
-    <link>http://example.org/tags/</link>
-    <description>Recent content in Tags on My New Hugo Site</description>
+    <title>Tags on Cocoa Enhanced</title>
+    <link>https://www.arifsetwn.github.io/tags/</link>
+    <description>Recent content in Tags on Cocoa Enhanced</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 04 Dec 2018 09:47:44 +0700</lastBuildDate>
     
-	<atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.arifsetwn.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Blog</title>
+      <link>https://www.arifsetwn.github.io/tags/blog/</link>
+      <pubDate>Tue, 04 Dec 2018 09:47:44 +0700</pubDate>
+      
+      <guid>https://www.arifsetwn.github.io/tags/blog/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
