@@ -6,9 +6,9 @@ contentdir = "content"
 languageCode = "en-US"
 layoutdir = "layouts"
 publishdir = "public"
-author = "Alexis Tacnet"
-title = "Cocoa Enhanced"
-disqusshortname = ""
+author = "Arif Setiawan"
+title = "Arif Setiawan"
+disqusshortname = "arifdewi"
 pluralizelisttitles = false
 
 [permalinks]
@@ -17,18 +17,18 @@ blog = "blog/:slug/"
 [params]
 dateform = "Jan 2, 2006"
 dateformfull = "Mon Jan 2 2006 15:04:05 MST"
-description = "Example blog"
-copyright = "Copyright © 2015 Nishanth Shanmugham"
+description = "Life Start at ."
+copyright = "Copyright © 2019 Arif Setiawan"
 logofile = "img/logo.png"
 faviconfile = "img/logo.png"
 highlightjs = true
 progressively = true
 align_left = false
 lang = "en"
-github = "example"
-email = "you@example.com"
-linkedin = "john-example-aa80ue8è"
-twitter = "example"
+github = "arifsetwn"
+email = "arifsetwn@gmail.com"
+#linkedin = "john-example-aa80ue8è"
+twitter = "arip_se"
 social_banner = "img/banner.png"
 posts_navigation = true
 small_banner_logo = false
