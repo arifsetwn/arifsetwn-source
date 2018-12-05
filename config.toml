@@ -9,7 +9,9 @@ publishdir = "public"
 author = "Arif Setiawan"
 title = "Arif Setiawan"
 disqusshortname = "arifdewi"
+googleAnalytics = "UA-45966046-1"
 pluralizelisttitles = false
+
 
 [permalinks]
 blog = "blog/:slug/"
