@@ -31,8 +31,22 @@ github = "arifsetwn"
 email = "arifsetwn@gmail.com"
 #linkedin = "john-example-aa80ue8è"
 twitter = "arip_se"
-instagram = "arip_se"
 social_banner = "img/banner.png"
 posts_navigation = true
 small_banner_logo = false
 latestpostcount = 10
+
+[imaging]
+# Default resample filter used for resizing. Default is Box,
+# a simple and fast averaging filter appropriate for downscaling.
+# See https://github.com/disintegration/imaging
+resampleFilter = "box"
+
+# Default JPEG quality setting. Default is 75.
+quality = 75
+
+# Anchor used when cropping pictures.
+# Default is "smart" which does Smart Cropping, using https://github.com/muesli/smartcrop
+# Smart Cropping is content aware and tries to find the best crop for each image.
+# Valid values are Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+anchor = "smart"
