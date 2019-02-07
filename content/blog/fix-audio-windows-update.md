@@ -2,6 +2,8 @@
 title: "Suara hilang setelah Windows Update"
 date: 2018-12-14T22:11:17+07:00
 draft: false
+tags:
+- blog
 ---
 > Suara hilang setelah update Windows Build 18298
 
